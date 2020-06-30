@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "author": "GatsbyCentral.com",
   "dependencies": {
-    "bulma": "^0.7.0",
+    "bulma": "^0.9.0",
     "gatsby": "^2.0.0",
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-plugin-lodash": "^3.0.1",
